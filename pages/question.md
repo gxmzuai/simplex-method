@@ -4,6 +4,8 @@
 
 ![](https://vip2.loli.io/2023/12/05/gYKzT7hr4Nqyujt.webp)
 
+- [运筹学线性规划问题化标准型目标函数到底变最大还是最小？](https://www.zhihu.com/question/417812934)
+
 2、如何正确的选取枢轴/关键元素？
 
 ![](https://vip2.loli.io/2023/12/05/2qciwPQ1sjEboCO.webp)
