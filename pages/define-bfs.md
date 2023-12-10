@@ -24,7 +24,6 @@
 
 <div text-sm>
 
-![](https://vip2.loli.io/2023/12/05/9yGVpZ1trKkXbFP.webp)
 
 <center>什么是单纯形？</center>
 
