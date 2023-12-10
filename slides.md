@@ -16,7 +16,7 @@ src: ./pages/toc.md
 ---
 layout: default
 transition: fade-out
-src: ./pages/question-1.md
+src: ./pages/question.md
 ---
 
 ---
@@ -41,12 +41,6 @@ src: ./pages/example-1.md
 ---
 layout: default
 transition: fade-out
-src: ./pages/example-2.md
----
-
----
-layout: default
-transition: fade-out
 src: ./pages/maximum-example.md
 ---
 
@@ -60,12 +54,6 @@ src: ./pages/value.md
 layout: center
 transition: fade-out
 src: ./pages/materials.md
----
-
---- 
-layout: center
-transition: fade-out
-src: ./pages/homework.md
 ---
 
 ---
